@@ -1,0 +1,16 @@
+Date: Sun, 03 Jan 2021 15:35:29 GMT
+Content-Type: text/plain
+Set-Cookie: __cfduid=d6a8d466c5600a7b2dbb0eb71207dbfaf1609688129; expires=Tue, 02-Feb-21 15:35:29 GMT; path=/; domain=.vivareal.com.br; HttpOnly; SameSite=Lax
+Set-Cookie: __cfruid=87a4a2a43db209aac559ef48ccc59e647326cde6-1609688129; path=/; domain=.vivareal.com.br; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+X-Amz-Id-2: Lg0lDAJECEXT3NxH/CyCT/oFr2QZQhv0o4i5zoNflrMUDFS2OO8fiGox9R3GryTR+9MwgrkmeXs=
+X-Amz-Request-Id: C103AA952189C427
+Last-Modified: Fri, 18 Dec 2020 03:12:19 GMT
+Etag: W/"2046fd62e57691ce165a760b34db10fc"
+Strict-Transport-Security: max-age=15724800
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Cf-Request-Id: 076a7cb6890000f87f89328000000001
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 60bdca374a9bf87f-GIG

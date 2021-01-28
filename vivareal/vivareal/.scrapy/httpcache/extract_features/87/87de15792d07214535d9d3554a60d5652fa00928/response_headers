@@ -1,0 +1,23 @@
+Date: Thu, 07 Jan 2021 18:28:57 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: __cfduid=d73fe6029bd41d89eb419880bae5045071610044137; expires=Sat, 06-Feb-21 18:28:57 GMT; path=/; domain=.vivareal.com.br; HttpOnly; SameSite=Lax
+Set-Cookie: __cfruid=e56f4ed8b995826537d43bd0c093ec9eccc46bcf-1610044137; path=/; domain=.vivareal.com.br; HttpOnly; Secure; SameSite=None
+X-Correlation-Id: 4156091f-7638-4d8b-a003-e38cd87b9a9e
+X-Request-Id: e0fcfd34f91589ac89b7d592d597b4f1
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15724800
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Instance: comandante-hamilton-6db745f54d-989cp
+Vary: Accept-Encoding
+Cf-Cache-Status: HIT
+Age: 1890
+Expires: Thu, 07 Jan 2021 18:58:57 GMT
+Cache-Control: public, max-age=1800
+Cf-Request-Id: 077fb4f9680000dba8a4ac3000000001
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 60dfbdd57a7edba8-GIG
+Content-Encoding: gzip

@@ -1,0 +1,21 @@
+Date: Sun, 03 Jan 2021 15:35:32 GMT
+Content-Type: text/html; charset=utf-8
+X-Correlation-Id: a2b4e098-b97d-4367-a7fd-be556271a3c3
+X-Request-Id: d9242abe43c316d62c6c0c8ed876f22a
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15724800
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Instance: comandante-hamilton-6db745f54d-678kx
+Vary: Accept-Encoding
+Cf-Cache-Status: HIT
+Age: 571
+Expires: Sun, 03 Jan 2021 16:05:32 GMT
+Cache-Control: public, max-age=1800
+Cf-Request-Id: 076a7cc4ee0000f87f643e5000000001
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 60bdca4e4e5df87f-GIG
+Content-Encoding: gzip
